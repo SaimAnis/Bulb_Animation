@@ -9,20 +9,20 @@ A simple interactive web project that simulates turning a light bulb ON and OFF 
 <h2>🚀 Demo</h2>
 
 (Live-preview: <a href="https://saim-anis.github.io/Bulb_Animation/"></a> )
-<br />
+<br />  <br />
 <h2>🛠️ Technologies Used</h2>
-HTML5 
-CSS3 
-JavaScript 
+HTML5  <br />
+CSS3    <br />
+JavaScript    <br />
 
   <h3> 📁 Project Structure</h3>
 
 
 
-bulb-toggle/
-├── index.html       # Main HTML file
-├── style.css        # Styles for bulb and layout
-├── script.js        # JavaScript for bulb toggle functionality
-└── images/
-    ├── bulb-on.png  # Bulb ON image
+bulb-toggle/   <br />
+├── index.html       # Main HTML file    <br />
+├── style.css        # Styles for bulb and layout    <br />
+├── script.js        # JavaScript for bulb toggle functionality    <br />
+└── images/   <br />
+    ├── bulb-on.png  # Bulb ON image    <br />
     └── bulb-off.png # Bulb OFF image
