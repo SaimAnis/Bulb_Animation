@@ -7,7 +7,7 @@ A simple interactive web project that simulates turning a light bulb ON and OFF 
 
 <h2>Live Preview 👇👇</h2>
 
-(<a href="https://saim-anis.github.io/Bulb_Animation/">href="https://saim-anis.github.io/Bulb_Animation/</a> )
+(<a href="https://saimanis.github.io/Bulb_Animation/">href="https://saimanis.github.io/Bulb_Animation/"</a> )
 <br />  <br />
 <h2>🛠️ Technologies Used</h2>
 HTML5  <br />
